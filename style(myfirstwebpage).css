@@ -81,12 +81,6 @@ nav ul {
     }
 }
 
-@media (min-width: 1200px) {
-    .projects {
-        grid-template-columns: 1fr;
-    }
-}
-
 img {
     max-width:100%;
     height: auto;
