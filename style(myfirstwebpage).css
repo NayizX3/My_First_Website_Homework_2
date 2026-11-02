@@ -71,7 +71,7 @@ nav ul {
 
 div {
   display: flex;
-  align-items: normal;
+  align-items: safe;
   justify-content: space-around;
 }
 
