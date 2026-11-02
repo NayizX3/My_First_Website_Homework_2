@@ -69,8 +69,14 @@ nav ul {
     padding: 0 24px;
 }
 
+div {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
 .projects {
-    display: grid;
+    display:flex;
     grid-template-columns: 1fr;
     gap: 16px;
 }
