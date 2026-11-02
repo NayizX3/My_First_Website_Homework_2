@@ -72,13 +72,12 @@ nav ul {
 div {
   display: flex;
   align-items: center;
-  flex-direction: column;
   justify-content: space-around;
 }
 
 .projects {
     display:flex;
-    grid-template-columns: 1fr;
+    flex-direction: column;
     gap: 16px;
 }
 
